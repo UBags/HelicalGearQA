@@ -16,6 +16,17 @@ Each measurement is compared against a per-component tolerance band and colour-c
 
 ---
 
+## Input and output images
+
+![Image 1 Original](https://github.com/user-attachments/assets/fea8ebf8-2f23-48e2-a8fc-3601f98bc50f)
+<img width="1064" height="370" alt="Image 1" src="https://github.com/user-attachments/assets/0366f73a-c055-4d33-843d-656e48da23c8" />
+
+---
+![Image 2 Original](https://github.com/user-attachments/assets/71e44686-5088-4fdb-9d59-3e56c29eefbd)
+<img width="1064" height="377" alt="Image 2" src="https://github.com/user-attachments/assets/f54166a3-f6e3-4d1f-903e-1788e026f84e" />
+
+---
+
 ## Table of Contents
 
 1. [Project Structure](#project-structure)
@@ -670,6 +681,14 @@ No other files need to be changed.
 | `imutils` | Image resizing utility |
 | `segment-anything` | Facebook SAM (installed from GitHub) |
 
+---
+
+## Input and output images
+
+![Image 3 Original](https://github.com/user-attachments/assets/e3c31bd3-46ec-4ed2-9444-3fd9e214997a)
+<img width="1064" height="375" alt="Image 3" src="https://github.com/user-attachments/assets/6ce1e0f7-2a61-4f38-bf36-7eaae9a1c4c3" />
+
+---
 Install with:
 ```bash
 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
